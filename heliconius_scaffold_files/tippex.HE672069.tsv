@@ -1,0 +1,133 @@
+min	1
+max	698369
+hap	19359	+	F1FaB	3
+hap	19359	+	F1FaC	1
+hap	24350	-	F1FaC	1
+ignore	21400
+ignore	24350
+ignore	24345
+ignore	40567
+ignore	40562
+ignore	59147
+ignore	84025
+ignore	88501
+ignore	92918
+ignore	110872
+ignore	149669
+ignore	152373
+ignore	152368
+ignore	160083
+ignore	160078
+ignore	161975
+ignore	161970
+ignore	175805
+ignore	175808
+ignore	175763
+ignore	188737
+ignore	186621
+ignore	186644
+ignore	186646
+hap	197434	+	F1MoA	2
+hap	197434	+	F1FaB	3
+hap	197434	+	F1MoC	1
+hap	197434	+	F1FaC	1
+hap	197926	-	F1MoC	1
+hap	197926	-	F1FaC	1
+hap	197926	-	F1MoA	3
+hap	197926	-	F1FaB	2
+ignore	197921
+ignore	200973
+ignore	200968
+ignore	207917
+ignore	208998
+ignore	208993
+ignore	213498
+ignore	213493
+ignore	222782
+ignore	222777
+ignore	234092
+ignore	243240
+ignore	244943
+ignore	244987
+ignore	263892
+ignore	263893
+ignore	269268
+ignore	269263
+ignore	281681
+ignore	296572
+ignore	312796
+ignore	312791
+ignore	318208
+ignore	318205
+ignore	346977
+ignore	346972
+ignore	348418
+ignore	374559
+ignore	382344
+ignore	382339
+ignore	388850
+ignore	385036
+ignore	388845
+ignore	390953
+ignore	412446
+ignore	412431
+ignore	412434
+ignore	412437
+ignore	412445
+ignore	412449
+ignore	453528
+ignore	453533
+ignore	457343
+ignore	466553
+ignore	490734
+hap	498482	+	F1FaC	2
+hap	498482	+	F1MoA	1
+hap	498482	+	F1FaB	1
+hap	498911	-	F1MoA	1
+hap	498911	-	F1FaB	1
+ignore	544959
+ignore	544964
+ignore	545021
+ignore	545026
+ignore	546290
+ignore	546346
+ignore	565826
+ignore	577912
+ignore	577907
+ignore	587275
+ignore	587270
+ignore	593110
+ignore	593090
+ignore	600934
+ignore	604594
+ignore	604599
+ignore	605818
+ignore	605822
+ignore	605832
+ignore	605837
+ignore	605867
+ignore	605868
+ignore	605871
+ignore	605872
+ignore	606750
+hap	624546	-	F1MoA	1
+hap	624546	-	F1FaB	1
+hap	638325	+	F1FaB	2
+hap	638325	+	F1MoC	1
+hap	638325	+	F1FaC	1
+hap	638706	-	F1FaB	1
+hap	638706	-	F1MoC	1
+hap	638706	-	F1FaC	1
+ignore	638701
+ignore	640013
+ignore	643686
+ignore	640008
+ignore	658790
+ignore	666839
+ignore	666834
+ignore	674600
+ignore	674605
+ignore	676624
+ignore	676629
+ignore	698364
+ignore	698369

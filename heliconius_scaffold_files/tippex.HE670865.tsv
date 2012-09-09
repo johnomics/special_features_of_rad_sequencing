@@ -1,0 +1,21 @@
+min	44334
+max	550000
+ignore	44339
+ignore	328076
+ignore	332477
+#ignore	332472
+#ignore	355273
+#ignore	355268
+#ignore	376389
+ignore	535592
+hap	47685	-	F1MoA	-
+hap	58189	-	F1MoA	-
+hap	175185	+	F1MoA	-
+hap	175190	-	F1MoA	-
+hap	215499	-	F1MoA	1
+hap	225210	+	F1FaB	-
+hap	225215	-	F1FaB	-
+hap	376384	+	F1MoA	2
+hap	376384	+	F1FaB	1
+hap	376384	+	F1MoC	1
+hap	376384	+	F1FaC	1

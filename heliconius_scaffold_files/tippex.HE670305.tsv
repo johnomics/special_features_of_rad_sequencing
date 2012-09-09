@@ -1,0 +1,46 @@
+min	23308
+max	354770
+ignore	23313
+ignore	32931
+ignore	34046
+hap	87280	+	F1FaC	2
+ignore	112487
+ignore	114911
+ignore	136448
+ignore	136439
+ignore	139870
+hap	174053	+	F1MoA	1
+hap	174053	+	F1MoC	1
+hap	174053	+	F1FaB	1
+hap	174053	+	F1FaC	1
+hap	174671	-	F1MoA	1
+hap	174671	-	F1FaB	3
+hap	174671	-	F1MoC	2
+hap	174671	-	F1FaC	2
+ignore	174666
+ignore	181926
+ignore	179014
+ignore	181921
+ignore	174666
+ignore	204228
+ignore	204260
+ignore	204265
+ignore	211182
+ignore	211177
+ignore	222302
+ignore	222306
+ignore	222308
+ignore	222482
+ignore	222487
+ignore	222594
+ignore	222599
+ignore	230459
+ignore	230896
+ignore	230898
+ignore	230893
+hap	247571	+	F1FaB	1
+hap	247571	+	F1MoA	1
+hap	248372	-	F1MoA	1
+hap	248372	-	F1FaC	1
+hap	249160	-	F1MoA	1
+ignore	354765
