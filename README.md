@@ -2,11 +2,11 @@
 
 This document describes a set of scripts and commands to replicate the figures in the following paper, and how to use the scripts on other data sets. Please refer to the manuscript for further explanation and justification for the methods used.
 
-Davey JW, Cezard T, Fuentes-Utrilla P, Eland C, Gharbi K, Blaxter M. Special features of RAD Sequencing data: implications for genotyping. Molecular Ecology, in press.
+Davey JW, Cezard T, Fuentes-Utrilla P, Eland C, Gharbi K, Blaxter M. Special features of RAD Sequencing data: implications for genotyping. [Molecular Ecology, Early View](http://onlinelibrary.wiley.com/doi/10.1111/mec.12084/full).
 
 This document is primarily provided for transparency and many scripts are specific to the analyses reported in the paper. However, a good faith attempt has been made to generalize several tools that may be of use on other data sets, notably `simulate_RAD_fragments.pl`, `rad_locus_perfect_matches.pl`, `summarise_rad_loci.pl`, and `infer_rad_loci_per_scaffold_from_bam.pl`. Be warned that these scripts have not been tested on any other data sets or machines, so errors are likely to occur. If you believe you have found a bug in these scripts, please contact [John Davey](mailto:johnomics@gmail.com) or make a pull request to the [github repository](https://github.com/johnomics/special_features_of_rad_sequencing).
 
-These scripts are uploaded to Dryad repository DOI 10.5061/dryad.218p2.
+These scripts are uploaded to Dryad repository DOI [10.5061/dryad.218p2](http://datadryad.org/resource/doi:10.5061/dryad.218p2).
 
 ## FILE LIST 
 
